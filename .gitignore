@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+*.xml
+local_settings.py
+*.wpu
+*.wpr
+*.DS_Store
+*.hg*
